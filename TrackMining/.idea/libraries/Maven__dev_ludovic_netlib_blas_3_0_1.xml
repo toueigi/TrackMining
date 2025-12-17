@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: dev.ludovic.netlib:blas:3.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../maven-repos2/dev/ludovic/netlib/blas/3.0.1/blas-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../maven-repos2/dev/ludovic/netlib/blas/3.0.1/blas-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven-repos2/dev/ludovic/netlib/blas/3.0.1/blas-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
